@@ -14,9 +14,9 @@ Feladatok:
 4. Állítson be a szöveg előtt egyes szintű fejezetcímet, „AIX” tartalommal.
 5. A három bekezdést jelölje HTML elemmel, bekezdésnek.
 6. A bekezdések a következő címeket kapják, 2-s fejezetcímmel:
-  a Egy
-  b Kettő
-  c Három
+6.  a Egy
+6.  b Kettő
+6.  c Három
 7. Az Advanced Interactive eXecutive szavakat, együtt jelölje félkövérnek
 8. Az AIX szó, mindenhol legyen kiemeltnek jelölve.
 9. A HTML forráskódjában, megjegyzésbe, írja, a nevét és az aktuális dátumot.
